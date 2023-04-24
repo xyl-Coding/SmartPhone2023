@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E591CEA829F4898300EBCC78 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E591CEA729F4898300EBCC78 /* AppDelegate.swift */; };
-		E591CEAA29F4898300EBCC78 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E591CEA929F4898300EBCC78 /* SceneDelegate.swift */; };
-		E591CEAF29F4898300EBCC78 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E591CEAD29F4898300EBCC78 /* Main.storyboard */; };
-		E591CEB129F4898400EBCC78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E591CEB029F4898400EBCC78 /* Assets.xcassets */; };
-		E591CEB429F4898400EBCC78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E591CEB229F4898400EBCC78 /* LaunchScreen.storyboard */; };
-		E593598E29F49A6C00B74D3E /* UploadImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E593598D29F49A6C00B74D3E /* UploadImageViewController.swift */; };
-		E593599029F4A47900B74D3E /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E593598F29F4A47900B74D3E /* TableViewController.swift */; };
+		E593599E29F4CE3100B74D3E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E593599D29F4CE3100B74D3E /* AppDelegate.swift */; };
+		E59359A029F4CE3100B74D3E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E593599F29F4CE3100B74D3E /* SceneDelegate.swift */; };
+		E59359A529F4CE3100B74D3E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E59359A329F4CE3100B74D3E /* Main.storyboard */; };
+		E59359A729F4CE3100B74D3E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E59359A629F4CE3100B74D3E /* Assets.xcassets */; };
+		E59359AA29F4CE3100B74D3E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E59359A829F4CE3100B74D3E /* LaunchScreen.storyboard */; };
+		E59359B529F4F5DE00B74D3E /* TableViewControllerHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59359B329F4F5DE00B74D3E /* TableViewControllerHome.swift */; };
+		E59359B829F511B600B74D3E /* TableViewControllerTakeAPic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59359B729F511B600B74D3E /* TableViewControllerTakeAPic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E591CEA429F4898300EBCC78 /* InstaImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstaImage.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E591CEA729F4898300EBCC78 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E591CEA929F4898300EBCC78 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		E591CEAE29F4898300EBCC78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E591CEB029F4898400EBCC78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E591CEB329F4898400EBCC78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		E591CEB529F4898400EBCC78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E593598D29F49A6C00B74D3E /* UploadImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadImageViewController.swift; sourceTree = "<group>"; };
-		E593598F29F4A47900B74D3E /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		E593599A29F4CE3100B74D3E /* Final.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Final.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E593599D29F4CE3100B74D3E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E593599F29F4CE3100B74D3E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		E59359A429F4CE3100B74D3E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E59359A629F4CE3100B74D3E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E59359A929F4CE3100B74D3E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E59359AB29F4CE3100B74D3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E59359B329F4F5DE00B74D3E /* TableViewControllerHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewControllerHome.swift; sourceTree = "<group>"; };
+		E59359B729F511B600B74D3E /* TableViewControllerTakeAPic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewControllerTakeAPic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E591CEA129F4898300EBCC78 /* Frameworks */ = {
+		E593599729F4CE3100B74D3E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,73 +39,73 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E591CE9B29F4898300EBCC78 = {
+		E593599129F4CE3100B74D3E = {
 			isa = PBXGroup;
 			children = (
-				E591CEA629F4898300EBCC78 /* InstaImage */,
-				E591CEA529F4898300EBCC78 /* Products */,
+				E593599C29F4CE3100B74D3E /* Final */,
+				E593599B29F4CE3100B74D3E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		E591CEA529F4898300EBCC78 /* Products */ = {
+		E593599B29F4CE3100B74D3E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E591CEA429F4898300EBCC78 /* InstaImage.app */,
+				E593599A29F4CE3100B74D3E /* Final.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E591CEA629F4898300EBCC78 /* InstaImage */ = {
+		E593599C29F4CE3100B74D3E /* Final */ = {
 			isa = PBXGroup;
 			children = (
-				E591CEA729F4898300EBCC78 /* AppDelegate.swift */,
-				E591CEA929F4898300EBCC78 /* SceneDelegate.swift */,
-				E591CEAD29F4898300EBCC78 /* Main.storyboard */,
-				E591CEB029F4898400EBCC78 /* Assets.xcassets */,
-				E591CEB229F4898400EBCC78 /* LaunchScreen.storyboard */,
-				E591CEB529F4898400EBCC78 /* Info.plist */,
-				E593598D29F49A6C00B74D3E /* UploadImageViewController.swift */,
-				E593598F29F4A47900B74D3E /* TableViewController.swift */,
+				E593599D29F4CE3100B74D3E /* AppDelegate.swift */,
+				E593599F29F4CE3100B74D3E /* SceneDelegate.swift */,
+				E59359A329F4CE3100B74D3E /* Main.storyboard */,
+				E59359B729F511B600B74D3E /* TableViewControllerTakeAPic.swift */,
+				E59359A629F4CE3100B74D3E /* Assets.xcassets */,
+				E59359A829F4CE3100B74D3E /* LaunchScreen.storyboard */,
+				E59359AB29F4CE3100B74D3E /* Info.plist */,
+				E59359B329F4F5DE00B74D3E /* TableViewControllerHome.swift */,
 			);
-			path = InstaImage;
+			path = Final;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E591CEA329F4898300EBCC78 /* InstaImage */ = {
+		E593599929F4CE3100B74D3E /* Final */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E591CEB829F4898400EBCC78 /* Build configuration list for PBXNativeTarget "InstaImage" */;
+			buildConfigurationList = E59359AE29F4CE3100B74D3E /* Build configuration list for PBXNativeTarget "Final" */;
 			buildPhases = (
-				E591CEA029F4898300EBCC78 /* Sources */,
-				E591CEA129F4898300EBCC78 /* Frameworks */,
-				E591CEA229F4898300EBCC78 /* Resources */,
+				E593599629F4CE3100B74D3E /* Sources */,
+				E593599729F4CE3100B74D3E /* Frameworks */,
+				E593599829F4CE3100B74D3E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = InstaImage;
-			productName = InstaImage;
-			productReference = E591CEA429F4898300EBCC78 /* InstaImage.app */;
+			name = Final;
+			productName = Final;
+			productReference = E593599A29F4CE3100B74D3E /* Final.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E591CE9C29F4898300EBCC78 /* Project object */ = {
+		E593599229F4CE3100B74D3E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
-					E591CEA329F4898300EBCC78 = {
+					E593599929F4CE3100B74D3E = {
 						CreatedOnToolsVersion = 14.2;
 					};
 				};
 			};
-			buildConfigurationList = E591CE9F29F4898300EBCC78 /* Build configuration list for PBXProject "InstaImage" */;
+			buildConfigurationList = E593599529F4CE3100B74D3E /* Build configuration list for PBXProject "Final" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,56 +113,56 @@
 				en,
 				Base,
 			);
-			mainGroup = E591CE9B29F4898300EBCC78;
-			productRefGroup = E591CEA529F4898300EBCC78 /* Products */;
+			mainGroup = E593599129F4CE3100B74D3E;
+			productRefGroup = E593599B29F4CE3100B74D3E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E591CEA329F4898300EBCC78 /* InstaImage */,
+				E593599929F4CE3100B74D3E /* Final */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		E591CEA229F4898300EBCC78 /* Resources */ = {
+		E593599829F4CE3100B74D3E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E591CEB429F4898400EBCC78 /* LaunchScreen.storyboard in Resources */,
-				E591CEB129F4898400EBCC78 /* Assets.xcassets in Resources */,
-				E591CEAF29F4898300EBCC78 /* Main.storyboard in Resources */,
+				E59359AA29F4CE3100B74D3E /* LaunchScreen.storyboard in Resources */,
+				E59359A729F4CE3100B74D3E /* Assets.xcassets in Resources */,
+				E59359A529F4CE3100B74D3E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E591CEA029F4898300EBCC78 /* Sources */ = {
+		E593599629F4CE3100B74D3E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E593598E29F49A6C00B74D3E /* UploadImageViewController.swift in Sources */,
-				E591CEA829F4898300EBCC78 /* AppDelegate.swift in Sources */,
-				E591CEAA29F4898300EBCC78 /* SceneDelegate.swift in Sources */,
-				E593599029F4A47900B74D3E /* TableViewController.swift in Sources */,
+				E59359B529F4F5DE00B74D3E /* TableViewControllerHome.swift in Sources */,
+				E59359B829F511B600B74D3E /* TableViewControllerTakeAPic.swift in Sources */,
+				E593599E29F4CE3100B74D3E /* AppDelegate.swift in Sources */,
+				E59359A029F4CE3100B74D3E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		E591CEAD29F4898300EBCC78 /* Main.storyboard */ = {
+		E59359A329F4CE3100B74D3E /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E591CEAE29F4898300EBCC78 /* Base */,
+				E59359A429F4CE3100B74D3E /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		E591CEB229F4898400EBCC78 /* LaunchScreen.storyboard */ = {
+		E59359A829F4CE3100B74D3E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E591CEB329F4898400EBCC78 /* Base */,
+				E59359A929F4CE3100B74D3E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,7 +170,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		E591CEB629F4898400EBCC78 /* Debug */ = {
+		E59359AC29F4CE3100B74D3E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -230,7 +230,7 @@
 			};
 			name = Debug;
 		};
-		E591CEB729F4898400EBCC78 /* Release */ = {
+		E59359AD29F4CE3100B74D3E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -284,7 +284,7 @@
 			};
 			name = Release;
 		};
-		E591CEB929F4898400EBCC78 /* Debug */ = {
+		E59359AF29F4CE3100B74D3E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -293,7 +293,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 2CLVYV67UW;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = InstaImage/Info.plist;
+				INFOPLIST_FILE = Final/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -304,7 +304,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = edu.northeastern.xiangyang.InstaImage;
+				PRODUCT_BUNDLE_IDENTIFIER = edu.northeastern.xiangyang.Final;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -312,7 +312,7 @@
 			};
 			name = Debug;
 		};
-		E591CEBA29F4898400EBCC78 /* Release */ = {
+		E59359B029F4CE3100B74D3E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -321,7 +321,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 2CLVYV67UW;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = InstaImage/Info.plist;
+				INFOPLIST_FILE = Final/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -332,7 +332,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = edu.northeastern.xiangyang.InstaImage;
+				PRODUCT_BUNDLE_IDENTIFIER = edu.northeastern.xiangyang.Final;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -343,25 +343,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E591CE9F29F4898300EBCC78 /* Build configuration list for PBXProject "InstaImage" */ = {
+		E593599529F4CE3100B74D3E /* Build configuration list for PBXProject "Final" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E591CEB629F4898400EBCC78 /* Debug */,
-				E591CEB729F4898400EBCC78 /* Release */,
+				E59359AC29F4CE3100B74D3E /* Debug */,
+				E59359AD29F4CE3100B74D3E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E591CEB829F4898400EBCC78 /* Build configuration list for PBXNativeTarget "InstaImage" */ = {
+		E59359AE29F4CE3100B74D3E /* Build configuration list for PBXNativeTarget "Final" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E591CEB929F4898400EBCC78 /* Debug */,
-				E591CEBA29F4898400EBCC78 /* Release */,
+				E59359AF29F4CE3100B74D3E /* Debug */,
+				E59359B029F4CE3100B74D3E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E591CE9C29F4898300EBCC78 /* Project object */;
+	rootObject = E593599229F4CE3100B74D3E /* Project object */;
 }

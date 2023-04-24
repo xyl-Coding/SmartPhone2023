@@ -4,12 +4,14 @@
 <dict>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>Please allow always or when in use location</string>
-	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>Please allow Photo Library access</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Please Add Photo Library</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Please allow Camera usage</string>
+	<string>Please Allow Camera Usage</string>
 	<key>NSLocationUsageDescription</key>
-	<string>Please allow Location</string>
+	<string>Please Allow Location</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Please allow when in use location</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>

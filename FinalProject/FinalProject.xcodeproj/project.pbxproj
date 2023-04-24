@@ -7,29 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E591CEA829F4898300EBCC78 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E591CEA729F4898300EBCC78 /* AppDelegate.swift */; };
-		E591CEAA29F4898300EBCC78 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E591CEA929F4898300EBCC78 /* SceneDelegate.swift */; };
-		E591CEAF29F4898300EBCC78 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E591CEAD29F4898300EBCC78 /* Main.storyboard */; };
-		E591CEB129F4898400EBCC78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E591CEB029F4898400EBCC78 /* Assets.xcassets */; };
-		E591CEB429F4898400EBCC78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E591CEB229F4898400EBCC78 /* LaunchScreen.storyboard */; };
-		E593598E29F49A6C00B74D3E /* UploadImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E593598D29F49A6C00B74D3E /* UploadImageViewController.swift */; };
-		E593599029F4A47900B74D3E /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E593598F29F4A47900B74D3E /* TableViewController.swift */; };
+		E59359C629F51D1C00B74D3E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59359C529F51D1C00B74D3E /* AppDelegate.swift */; };
+		E59359C829F51D1C00B74D3E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59359C729F51D1C00B74D3E /* SceneDelegate.swift */; };
+		E59359CD29F51D1C00B74D3E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E59359CB29F51D1C00B74D3E /* Main.storyboard */; };
+		E59359CF29F51D1C00B74D3E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E59359CE29F51D1C00B74D3E /* Assets.xcassets */; };
+		E59359D229F51D1C00B74D3E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E59359D029F51D1C00B74D3E /* LaunchScreen.storyboard */; };
+		E59359DA29F51E0200B74D3E /* ViewControllerIMG.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59359D929F51E0200B74D3E /* ViewControllerIMG.swift */; };
+		E59359DD29F533CD00B74D3E /* TableViewCellHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59359DB29F533CD00B74D3E /* TableViewCellHome.swift */; };
+		E59359DE29F533CD00B74D3E /* TableViewCellHome.xib in Resources */ = {isa = PBXBuildFile; fileRef = E59359DC29F533CD00B74D3E /* TableViewCellHome.xib */; };
+		E59359E229F6041400B74D3E /* ViewControllerUploadIMG.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59359E129F6041400B74D3E /* ViewControllerUploadIMG.swift */; };
+		E59359E629F66AF500B74D3E /* CustomTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59359E529F66AF500B74D3E /* CustomTabBarController.swift */; };
+		E59359EA29F67F4B00B74D3E /* UploadImageProtocal.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59359E929F67F4B00B74D3E /* UploadImageProtocal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E591CEA429F4898300EBCC78 /* InstaImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstaImage.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E591CEA729F4898300EBCC78 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E591CEA929F4898300EBCC78 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		E591CEAE29F4898300EBCC78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E591CEB029F4898400EBCC78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E591CEB329F4898400EBCC78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		E591CEB529F4898400EBCC78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E593598D29F49A6C00B74D3E /* UploadImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadImageViewController.swift; sourceTree = "<group>"; };
-		E593598F29F4A47900B74D3E /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		E59359C229F51D1C00B74D3E /* FinalProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinalProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E59359C529F51D1C00B74D3E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E59359C729F51D1C00B74D3E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		E59359CC29F51D1C00B74D3E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E59359CE29F51D1C00B74D3E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E59359D129F51D1C00B74D3E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E59359D329F51D1C00B74D3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E59359D929F51E0200B74D3E /* ViewControllerIMG.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerIMG.swift; sourceTree = "<group>"; };
+		E59359DB29F533CD00B74D3E /* TableViewCellHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCellHome.swift; sourceTree = "<group>"; };
+		E59359DC29F533CD00B74D3E /* TableViewCellHome.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewCellHome.xib; sourceTree = "<group>"; };
+		E59359E129F6041400B74D3E /* ViewControllerUploadIMG.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerUploadIMG.swift; sourceTree = "<group>"; };
+		E59359E529F66AF500B74D3E /* CustomTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarController.swift; sourceTree = "<group>"; };
+		E59359E929F67F4B00B74D3E /* UploadImageProtocal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadImageProtocal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E591CEA129F4898300EBCC78 /* Frameworks */ = {
+		E59359BF29F51D1C00B74D3E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,73 +47,77 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E591CE9B29F4898300EBCC78 = {
+		E59359B929F51D1B00B74D3E = {
 			isa = PBXGroup;
 			children = (
-				E591CEA629F4898300EBCC78 /* InstaImage */,
-				E591CEA529F4898300EBCC78 /* Products */,
+				E59359C429F51D1C00B74D3E /* FinalProject */,
+				E59359C329F51D1C00B74D3E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		E591CEA529F4898300EBCC78 /* Products */ = {
+		E59359C329F51D1C00B74D3E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E591CEA429F4898300EBCC78 /* InstaImage.app */,
+				E59359C229F51D1C00B74D3E /* FinalProject.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E591CEA629F4898300EBCC78 /* InstaImage */ = {
+		E59359C429F51D1C00B74D3E /* FinalProject */ = {
 			isa = PBXGroup;
 			children = (
-				E591CEA729F4898300EBCC78 /* AppDelegate.swift */,
-				E591CEA929F4898300EBCC78 /* SceneDelegate.swift */,
-				E591CEAD29F4898300EBCC78 /* Main.storyboard */,
-				E591CEB029F4898400EBCC78 /* Assets.xcassets */,
-				E591CEB229F4898400EBCC78 /* LaunchScreen.storyboard */,
-				E591CEB529F4898400EBCC78 /* Info.plist */,
-				E593598D29F49A6C00B74D3E /* UploadImageViewController.swift */,
-				E593598F29F4A47900B74D3E /* TableViewController.swift */,
+				E59359C529F51D1C00B74D3E /* AppDelegate.swift */,
+				E59359C729F51D1C00B74D3E /* SceneDelegate.swift */,
+				E59359DB29F533CD00B74D3E /* TableViewCellHome.swift */,
+				E59359D929F51E0200B74D3E /* ViewControllerIMG.swift */,
+				E59359E129F6041400B74D3E /* ViewControllerUploadIMG.swift */,
+				E59359E529F66AF500B74D3E /* CustomTabBarController.swift */,
+				E59359E929F67F4B00B74D3E /* UploadImageProtocal.swift */,
+				E59359CB29F51D1C00B74D3E /* Main.storyboard */,
+				E59359DC29F533CD00B74D3E /* TableViewCellHome.xib */,
+				E59359CE29F51D1C00B74D3E /* Assets.xcassets */,
+				E59359D029F51D1C00B74D3E /* LaunchScreen.storyboard */,
+				E59359D329F51D1C00B74D3E /* Info.plist */,
 			);
-			path = InstaImage;
+			path = FinalProject;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E591CEA329F4898300EBCC78 /* InstaImage */ = {
+		E59359C129F51D1C00B74D3E /* FinalProject */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E591CEB829F4898400EBCC78 /* Build configuration list for PBXNativeTarget "InstaImage" */;
+			buildConfigurationList = E59359D629F51D1C00B74D3E /* Build configuration list for PBXNativeTarget "FinalProject" */;
 			buildPhases = (
-				E591CEA029F4898300EBCC78 /* Sources */,
-				E591CEA129F4898300EBCC78 /* Frameworks */,
-				E591CEA229F4898300EBCC78 /* Resources */,
+				E59359BE29F51D1C00B74D3E /* Sources */,
+				E59359BF29F51D1C00B74D3E /* Frameworks */,
+				E59359C029F51D1C00B74D3E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = InstaImage;
-			productName = InstaImage;
-			productReference = E591CEA429F4898300EBCC78 /* InstaImage.app */;
+			name = FinalProject;
+			productName = FinalProject;
+			productReference = E59359C229F51D1C00B74D3E /* FinalProject.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E591CE9C29F4898300EBCC78 /* Project object */ = {
+		E59359BA29F51D1B00B74D3E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
-					E591CEA329F4898300EBCC78 = {
+					E59359C129F51D1C00B74D3E = {
 						CreatedOnToolsVersion = 14.2;
 					};
 				};
 			};
-			buildConfigurationList = E591CE9F29F4898300EBCC78 /* Build configuration list for PBXProject "InstaImage" */;
+			buildConfigurationList = E59359BD29F51D1B00B74D3E /* Build configuration list for PBXProject "FinalProject" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,56 +125,60 @@
 				en,
 				Base,
 			);
-			mainGroup = E591CE9B29F4898300EBCC78;
-			productRefGroup = E591CEA529F4898300EBCC78 /* Products */;
+			mainGroup = E59359B929F51D1B00B74D3E;
+			productRefGroup = E59359C329F51D1C00B74D3E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E591CEA329F4898300EBCC78 /* InstaImage */,
+				E59359C129F51D1C00B74D3E /* FinalProject */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		E591CEA229F4898300EBCC78 /* Resources */ = {
+		E59359C029F51D1C00B74D3E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E591CEB429F4898400EBCC78 /* LaunchScreen.storyboard in Resources */,
-				E591CEB129F4898400EBCC78 /* Assets.xcassets in Resources */,
-				E591CEAF29F4898300EBCC78 /* Main.storyboard in Resources */,
+				E59359D229F51D1C00B74D3E /* LaunchScreen.storyboard in Resources */,
+				E59359CF29F51D1C00B74D3E /* Assets.xcassets in Resources */,
+				E59359DE29F533CD00B74D3E /* TableViewCellHome.xib in Resources */,
+				E59359CD29F51D1C00B74D3E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E591CEA029F4898300EBCC78 /* Sources */ = {
+		E59359BE29F51D1C00B74D3E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E593598E29F49A6C00B74D3E /* UploadImageViewController.swift in Sources */,
-				E591CEA829F4898300EBCC78 /* AppDelegate.swift in Sources */,
-				E591CEAA29F4898300EBCC78 /* SceneDelegate.swift in Sources */,
-				E593599029F4A47900B74D3E /* TableViewController.swift in Sources */,
+				E59359C629F51D1C00B74D3E /* AppDelegate.swift in Sources */,
+				E59359EA29F67F4B00B74D3E /* UploadImageProtocal.swift in Sources */,
+				E59359DA29F51E0200B74D3E /* ViewControllerIMG.swift in Sources */,
+				E59359E629F66AF500B74D3E /* CustomTabBarController.swift in Sources */,
+				E59359DD29F533CD00B74D3E /* TableViewCellHome.swift in Sources */,
+				E59359C829F51D1C00B74D3E /* SceneDelegate.swift in Sources */,
+				E59359E229F6041400B74D3E /* ViewControllerUploadIMG.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		E591CEAD29F4898300EBCC78 /* Main.storyboard */ = {
+		E59359CB29F51D1C00B74D3E /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E591CEAE29F4898300EBCC78 /* Base */,
+				E59359CC29F51D1C00B74D3E /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		E591CEB229F4898400EBCC78 /* LaunchScreen.storyboard */ = {
+		E59359D029F51D1C00B74D3E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E591CEB329F4898400EBCC78 /* Base */,
+				E59359D129F51D1C00B74D3E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,7 +186,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		E591CEB629F4898400EBCC78 /* Debug */ = {
+		E59359D429F51D1C00B74D3E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -230,7 +246,7 @@
 			};
 			name = Debug;
 		};
-		E591CEB729F4898400EBCC78 /* Release */ = {
+		E59359D529F51D1C00B74D3E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -284,7 +300,7 @@
 			};
 			name = Release;
 		};
-		E591CEB929F4898400EBCC78 /* Debug */ = {
+		E59359D729F51D1C00B74D3E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -293,7 +309,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 2CLVYV67UW;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = InstaImage/Info.plist;
+				INFOPLIST_FILE = FinalProject/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -304,7 +320,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = edu.northeastern.xiangyang.InstaImage;
+				PRODUCT_BUNDLE_IDENTIFIER = edu.northeastern.xiangyang.FinalProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -312,7 +328,7 @@
 			};
 			name = Debug;
 		};
-		E591CEBA29F4898400EBCC78 /* Release */ = {
+		E59359D829F51D1C00B74D3E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -321,7 +337,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 2CLVYV67UW;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = InstaImage/Info.plist;
+				INFOPLIST_FILE = FinalProject/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -332,7 +348,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = edu.northeastern.xiangyang.InstaImage;
+				PRODUCT_BUNDLE_IDENTIFIER = edu.northeastern.xiangyang.FinalProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -343,25 +359,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E591CE9F29F4898300EBCC78 /* Build configuration list for PBXProject "InstaImage" */ = {
+		E59359BD29F51D1B00B74D3E /* Build configuration list for PBXProject "FinalProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E591CEB629F4898400EBCC78 /* Debug */,
-				E591CEB729F4898400EBCC78 /* Release */,
+				E59359D429F51D1C00B74D3E /* Debug */,
+				E59359D529F51D1C00B74D3E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E591CEB829F4898400EBCC78 /* Build configuration list for PBXNativeTarget "InstaImage" */ = {
+		E59359D629F51D1C00B74D3E /* Build configuration list for PBXNativeTarget "FinalProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E591CEB929F4898400EBCC78 /* Debug */,
-				E591CEBA29F4898400EBCC78 /* Release */,
+				E59359D729F51D1C00B74D3E /* Debug */,
+				E59359D829F51D1C00B74D3E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E591CE9C29F4898300EBCC78 /* Project object */;
+	rootObject = E59359BA29F51D1B00B74D3E /* Project object */;
 }

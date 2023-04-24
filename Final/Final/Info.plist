@@ -2,14 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Please allow always or when in use location</string>
-	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>Please allow Photo Library access</string>
-	<key>NSCameraUsageDescription</key>
-	<string>Please allow Camera usage</string>
-	<key>NSLocationUsageDescription</key>
-	<string>Please allow Location</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
